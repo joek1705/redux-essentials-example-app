@@ -1,4 +1,5 @@
 import React from 'react'
+import { PostsList } from './features/posts/PostsList'
 import {
   BrowserRouter as Router,
   Switch,
